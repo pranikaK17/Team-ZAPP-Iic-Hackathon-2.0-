@@ -307,7 +307,6 @@ img {
 }
 
 /* Components */
-/* Story */
 .story {
   background-color: transparent;
   border: none;
@@ -331,7 +330,7 @@ img {
   stroke-width: 1.5;
 }
 .story--has-story .story__border {
-  stroke: url(#--story-gradient);
+  stroke: #8f22e4;
   stroke-width: 2;
 }
 .story__picture {
