@@ -1,7 +1,7 @@
 # Team-ZAPP-Iic-Hackathon-2.0-
 This repository contains the prototype website code, video link and flowchart for Round 1 of the Hackathon.
 
-
+https://github.com/user-attachments/assets/dd7a8221-2831-4da7-b98b-d0400198ce7f
 
 > Exposure - a community powered - problem solving platform
 
@@ -25,4 +25,7 @@ Future features :-
 - real-time geolocation to display real-time data
 - community data tracking 
 - filter sort 
+
+
+
 
